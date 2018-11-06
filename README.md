@@ -6,6 +6,10 @@ Docnado makes it easy to start and maintain a Markdown documentation project.  S
 
 [![PyPI version](https://badge.fury.io/py/docnado.svg)](https://badge.fury.io/py/docnado)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/6uhrmittag/docnado/badge)](https://www.codefactor.io/repository/github/6uhrmittag/docnado)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/90796c7f987dc7fd6445/maintainability)](https://codeclimate.com/github/6uhrmittag/docnado/maintainability)
+
 # Basic Features
 
 Docnado renders an adapted Markdown to provide:
